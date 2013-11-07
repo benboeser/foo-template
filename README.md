@@ -10,6 +10,9 @@ Project Status
 | Status        | Value       |
 | ------------- |-------------|
 | Build         | ![Build Status](https://travis-ci.org/benboeser/foo-template.png?raw=true) |
+| Accessibility         | ![Build Status](https://travis-ci.org/benboeser/foo-template.png?raw=true) |
+| 3rd Party Compliance         | ![Build Status](https://travis-ci.org/benboeser/foo-template.png?raw=true) |
+| Language Requirements         | ![Build Status](https://travis-ci.org/benboeser/foo-template.png?raw=true) |
 
 
 
