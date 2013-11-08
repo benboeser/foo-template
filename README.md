@@ -7,7 +7,7 @@ Template for foo
 Project Status
 ============
 
-| Status        | Value       |
+|         | Status       |
 | ------------- |-------------|
 | Build         | ![Build Status](https://travis-ci.org/benboeser/foo-template.png?raw=true) |
 | Accessibility         | ![Build Status](http://images.sodahead.com/polls/000172630/polls_600px_Stop_sign.svg_2058_261978_answer_1_small.png)|
